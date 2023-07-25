@@ -1,0 +1,2 @@
+# qrcodecomponent
+HTML e CSS 
